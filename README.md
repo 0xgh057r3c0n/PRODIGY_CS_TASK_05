@@ -1,4 +1,4 @@
-# Packet Sniffer Tool (task5.py)
+# Packet Sniffer Tool
 
 A simple Python-based packet sniffer tool built using `tkinter` for the GUI and `scapy` for packet capture and analysis. This tool captures network packets in real-time and allows users to inspect various packet details like source/destination IP, protocol, source/destination ports, and payload.
 
